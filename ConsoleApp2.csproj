@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>shell32_273.ico</ApplicationIcon>
+    <PackageIcon>pnoquio.jpg</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="shell32_273.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\OneDrive\Área de Trabalho\pnoquio.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

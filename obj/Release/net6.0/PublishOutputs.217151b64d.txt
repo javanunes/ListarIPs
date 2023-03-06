@@ -1,0 +1,5 @@
+C:\temp\ConsoleApp2.exe
+C:\temp\ConsoleApp2.dll
+C:\temp\ConsoleApp2.deps.json
+C:\temp\ConsoleApp2.runtimeconfig.json
+C:\temp\ConsoleApp2.pdb

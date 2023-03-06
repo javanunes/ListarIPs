@@ -1,0 +1,2 @@
+C:\temp\ConsoleApp2.pdb
+C:\temp\ConsoleApp2.exe
